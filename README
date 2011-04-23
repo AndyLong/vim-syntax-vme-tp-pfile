@@ -1,0 +1,5 @@
+This collection of files creates a syntax recognition system for TPMS Parameter
+files, running on the ICL/Fujitsu VME operating system. 
+
+*** NOTE: These files are sill under development ***
+
